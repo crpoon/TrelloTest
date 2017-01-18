@@ -1,0 +1,8 @@
+# Eclipse gitignore
+.classpath
+.project
+.settings/
+
+# Maven gitignore
+log/
+target/
